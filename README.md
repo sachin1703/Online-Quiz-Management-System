@@ -1,4 +1,4 @@
-# Quiz Management System
+# Online Quiz Management System
 
 A web-based Quiz Management System built using HTML, CSS, JavaScript, Node.js, and Express.js. The project allows users to create accounts, log in, select quiz subjects and difficulty levels, attempt timed quizzes, view scores, review answers, and track previous quiz results.
 
